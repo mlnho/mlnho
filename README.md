@@ -1,12 +1,9 @@
 <!-- Header -->
 
-🇰🇷 Minho's Github
-
-
 <!-- Body -->
 
 <div align="center">
-<h1>🇰🇷 Minho
+<h1> :cow: Minho
   <h3>💻 Experience 💻</h3>
 
   <h3>📚 Tech Stack 📚</h3>
