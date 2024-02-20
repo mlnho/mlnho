@@ -35,5 +35,5 @@
   
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlnho&layout=compact)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=1104minho)](https://solved.ac/profile/1104minho)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=1104mihno@naver.com)](https://solved.ac/1104mihno@naver.com)
 </div>
