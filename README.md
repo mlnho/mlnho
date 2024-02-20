@@ -22,11 +22,11 @@
     <img src="https://img.shields.io/badge/NCP-03C75A?style=flat&logo=naver&logoColor=white"> 
     <br>
     <h3>🧑‍🤝‍🧑 Cowork Tools 🧑‍🤝‍🧑</h3>
-    <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white">
-    <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white">
-    <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white">
-    <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
+    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
     <br>
     <br>
 
