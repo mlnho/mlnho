@@ -2,7 +2,6 @@
 
 <!-- Body -->
 
-<div align="center">
 <h1> :cow: Minho
 
   <h3>📚 Tech Stack 📚</h3>
@@ -30,7 +29,7 @@
     <br>
     <br>
 
-  </div>
+
  <br />
   
 ### 🚌 Top Langs & Algorithm
