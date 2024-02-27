@@ -2,7 +2,7 @@
 
 <!-- Body -->
 
-<h1> :cow: Minho
+<h1> :cow: Jin Minho
 
   <h3>📚 Tech Stack 📚</h3>
   <div class="stack">   
