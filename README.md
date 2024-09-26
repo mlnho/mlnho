@@ -6,6 +6,7 @@
 
   <h3>📚 Tech Stack 📚</h3>
   <div class="stack">   
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=black"/> 
         <br>
